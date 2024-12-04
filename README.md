@@ -1,2 +1,2 @@
-# Prubeas_java
+# Pruebas_java
 Primeras pruebas
